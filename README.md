@@ -48,13 +48,7 @@ To answer questions a bank risk team would ask:
 - **Home loans** are the largest portfolio at LKR 413.2M (44.5% of the total).
 - Loan amount by year falls from LKR 298.7M (2023) to LKR 159.5M (2026). **2026 only includes data up to September**, so it is not a full-year comparison.
 
-## Screenshots
 
-### Pivot Tables
-![Pivot Tables](images/Pivot Tables.png)
-
-### Charts
-![Charts](images/charts.png)
 
 ## Files in this repository
 
